@@ -21,3 +21,5 @@ def mouseClicked():
         value = 0
     if clr == 127:
         clr = 0
+        
+pass
