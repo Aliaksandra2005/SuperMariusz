@@ -23,7 +23,7 @@ def mouseClicked():
     if clr == 127:
         clr = 0
         
-
+pass
 =======
 def setup():
     size (1000, 500) #do zmiany
